@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "GraphToken": {
+      "address": "0x892b08082aCd6Ce8016C95D11468be097dd58748",
+      "startBlock": 0
+    }
+  }
+}
